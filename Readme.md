@@ -1,7 +1,8 @@
 ## Gameday code examples
 ### Image editing App code parts
+[The app is available on App Store and Google Play](http://gamedayapp.tilda.ws/)
 
-### General information
+#### General information
 
 * Language: Objective-C
 * Features to note:
